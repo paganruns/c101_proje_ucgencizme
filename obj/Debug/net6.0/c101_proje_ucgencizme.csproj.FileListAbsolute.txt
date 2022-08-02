@@ -1,0 +1,15 @@
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\bin\Debug\net6.0\c101_proje_ucgencizme.exe
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\bin\Debug\net6.0\c101_proje_ucgencizme.deps.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\bin\Debug\net6.0\c101_proje_ucgencizme.runtimeconfig.json
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\bin\Debug\net6.0\c101_proje_ucgencizme.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\bin\Debug\net6.0\c101_proje_ucgencizme.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\obj\Debug\net6.0\c101_proje_ucgencizme.csproj.AssemblyReference.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\obj\Debug\net6.0\c101_proje_ucgencizme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\obj\Debug\net6.0\c101_proje_ucgencizme.AssemblyInfoInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\obj\Debug\net6.0\c101_proje_ucgencizme.AssemblyInfo.cs
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\obj\Debug\net6.0\c101_proje_ucgencizme.csproj.CoreCompileInputs.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\obj\Debug\net6.0\c101_proje_ucgencizme.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\obj\Debug\net6.0\refint\c101_proje_ucgencizme.dll
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\obj\Debug\net6.0\c101_proje_ucgencizme.pdb
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\obj\Debug\net6.0\c101_proje_ucgencizme.genruntimeconfig.cache
+C:\Users\347264\Documents\Sites\csharp\c101_proje_ucgencizme\obj\Debug\net6.0\ref\c101_proje_ucgencizme.dll
